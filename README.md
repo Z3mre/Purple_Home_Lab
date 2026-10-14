@@ -288,7 +288,6 @@ This project provides practical experience with:
 - [ ] **Forensic analysis:** Extract and document Indicators of Compromise (IoCs), such as IP addresses, file hashes, and process details.
 - [ ] **Active Response:** Troubleshoot the response workflow and validate mitigation in the isolated lab.
 - [ ] **Detection engineering:** Add custom rules and tune severity to reduce noise while preserving useful detections.
-- [ ] **Documentation:** Add screenshots, sample alerts, and a short explanation of how each detection was validated.
 '''
 path = Path("/mnt/data/README.md")
 path.write_text(readme, encoding="utf-8")
