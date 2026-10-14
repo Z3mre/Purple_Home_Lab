@@ -197,11 +197,6 @@ The `whoami` command generates process/command activity that can be correlated w
 
 ### Detection results
 
-Add a screenshot of the Wazuh dashboard here. For example, save the screenshot as `docs/images/wazuh-alerts.png` and reference it as follows:
-
-```markdown
-![Wazuh detection alerts](docs/images/wazuh-alerts.png)
-```
 
 | Rule ID | Level | Event / interpretation |
 |---|---:|---|
